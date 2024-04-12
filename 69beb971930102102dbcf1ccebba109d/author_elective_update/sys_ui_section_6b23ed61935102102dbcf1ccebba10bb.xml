@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Budget Details" section_id="6b23ed61935102102dbcf1ccebba10bb" sys_domain="global" table="x_1329796_marketin_marketing_event" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-01 06:50:24</sys_created_on>
+            <sys_id>bf23ed61935102102dbcf1ccebba10f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Budget Details" display_value="Budget Details" name="x_1329796_marketin_marketing_event" sys_domain="global" view="Default view">6b23ed61935102102dbcf1ccebba10bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-01 06:50:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-01 06:50:24</sys_created_on>
+            <sys_id>3323ed61935102102dbcf1ccebba10fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Budget Details" display_value="Budget Details" name="x_1329796_marketin_marketing_event" sys_domain="global" view="Default view">6b23ed61935102102dbcf1ccebba10bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-01 06:50:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>remaining_budget</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-01 06:50:24</sys_created_on>
+            <sys_id>b323ed61935102102dbcf1ccebba10fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Budget Details" display_value="Budget Details" name="x_1329796_marketin_marketing_event" sys_domain="global" view="Default view">6b23ed61935102102dbcf1ccebba10bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-01 06:50:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Budget Details</caption>
+            <header>false</header>
+            <name>x_1329796_marketin_marketing_event</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-01 06:50:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b23ed61935102102dbcf1ccebba10bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1329796_marketin_marketing_event</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Events Application" source="x_1329796_marketin">69beb971930102102dbcf1ccebba109d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Events Application">69beb971930102102dbcf1ccebba109d</sys_scope>
+            <sys_update_name>sys_ui_section_6b23ed61935102102dbcf1ccebba10bb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-01 06:50:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Marketing Events Application">69beb971930102102dbcf1ccebba109d</application>
+        <file_path/>
+        <instance_id>f699c1621b223150c84543f4bd4bcb83</instance_id>
+        <instance_name>dev217321</instance_name>
+        <name>sys_ui_section_6b23ed61935102102dbcf1ccebba10bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Budget Details" section_id="6b23ed61935102102dbcf1ccebba10bb" sys_domain="global" table="x_1329796_marketin_marketing_event" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>budget</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-01 06:50:24</sys_created_on><sys_id>bf23ed61935102102dbcf1ccebba10f9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Budget Details" display_value="Budget Details" name="x_1329796_marketin_marketing_event" sys_domain="global" view="Default view">6b23ed61935102102dbcf1ccebba10bb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-01 06:50:24</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-01 06:50:24</sys_created_on><sys_id>3323ed61935102102dbcf1ccebba10fa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Budget Details" display_value="Budget Details" name="x_1329796_marketin_marketing_event" sys_domain="global" view="Default view">6b23ed61935102102dbcf1ccebba10bb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-01 06:50:24</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>remaining_budget</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-01 06:50:24</sys_created_on><sys_id>b323ed61935102102dbcf1ccebba10fa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Budget Details" display_value="Budget Details" name="x_1329796_marketin_marketing_event" sys_domain="global" view="Default view">6b23ed61935102102dbcf1ccebba10bb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-01 06:50:24</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Budget Details</caption><header>false</header><name>x_1329796_marketin_marketing_event</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-01 06:50:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b23ed61935102102dbcf1ccebba10bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1329796_marketin_marketing_event</sys_name><sys_overrides/><sys_package display_value="Marketing Events Application" source="x_1329796_marketin">69beb971930102102dbcf1ccebba109d</sys_package><sys_policy/><sys_scope display_value="Marketing Events Application">69beb971930102102dbcf1ccebba109d</sys_scope><sys_update_name>sys_ui_section_6b23ed61935102102dbcf1ccebba10bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-01 06:50:23</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>747325863</payload_hash>
+        <record_name>Marketing Event </record_name>
+        <reverted_from/>
+        <source>29beb971930102102dbcf1ccebba109f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 06:50:24</sys_created_on>
+        <sys_id>3323ed61935102102dbcf1ccebba10fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e986c63d20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 06:50:24</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b723ed610e5102101c14f3bd6f3eaffb</update_guid>
+        <update_guid_history>b723ed610e5102101c14f3bd6f3eaffb:747325863</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 06:51:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1db7e4154c9446d19011bc7d16085139</sys_id>
+        <sys_metadata>6b23ed61935102102dbcf1ccebba10bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Budget Details</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_1329796_marketin">69beb971930102102dbcf1ccebba109d</sys_package>
+        <sys_parent display_value="Marketing Event ">b740ceb5930102102dbcf1ccebba1047</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Events Application">69beb971930102102dbcf1ccebba109d</sys_scope>
+        <sys_scope_delete display_value="">0b4decc199b140fa80ba71acdb959841</sys_scope_delete>
+        <sys_update_name>sys_ui_section_6b23ed61935102102dbcf1ccebba10bb</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_6b23ed61935102102dbcf1ccebba10bb">3323ed61935102102dbcf1ccebba10fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 06:51:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

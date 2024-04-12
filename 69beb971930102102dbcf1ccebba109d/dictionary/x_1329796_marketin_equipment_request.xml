@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f94f4d0a938102102dbcf1ccebba10b3" default="6816f79cc0a8016401c5a33be04be441" extends="task" label="Equipment Request" max_length="40" name="x_1329796_marketin_equipment_request" type="collection">
+        <element label="AAAA" max_length="40" name="aaaa" type="string"/>
+        <element label="AAAB" max_length="40" name="aaab" type="string"/>
+        <element default="6816f79cc0a8016401c5a33be04be441" label="Cost" max_length="20" name="cost" type="currency"/>
+        <element attributes="encode_utf8=false" label="Marketing Event" max_length="32" name="marketing_event" reference="x_1329796_marketin_marketing_event" type="reference"/>
+        <element default="6816f79cc0a8016401c5a33be04be441" label="Needed  from" max_length="40" name="needed_from" type="glide_date"/>
+        <element default="6816f79cc0a8016401c5a33be04be441" label="Needed until" max_length="40" name="needed_until" type="glide_date"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>
